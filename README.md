@@ -16,17 +16,3 @@ canIterate(null); // false
 canIterate(10); // false
 canIterate("Netology"); // true
 ```
-
-#### Описание
-В этом задании предполагается, что все персонажи содержат следующий набор полей:
-
-```
-const char = {
-  name: 'Лучник',
-  type: 'Bowman',
-  health: 50,
-  level: 1,
-  attack: 40,
-  defence: 10
-}
-```
